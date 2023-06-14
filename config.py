@@ -1,0 +1,10 @@
+# Fichier config.py
+
+# Token du bot
+TOKEN = "ODY4OTE1MzI2MTI4MTIzOTI0.G9KI7e.TFQO9W7OSLKapLeiSb3eewngDop8MXRrPjGMfY"
+
+# ID du salon de service
+SERVICE_CHANNEL_ID = 1118661247727054939
+
+# ID du salon de rapport
+RAPPORT_CHANNEL_ID = 1118509138536841277
