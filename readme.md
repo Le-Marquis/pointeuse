@@ -6,7 +6,8 @@ ID est un bot de pointage simple et efficace
 
 le lien suivant vous permettra de l'utiliser sur un serveur discord :
 
-Inviter
+[Inviter](https://discord.com/api/oauth2/authorize?client_id=868915326128123924&permissions=8&scope=bot%20applications.commands)
+
 
 # Fonctionnalités ✅
 
