@@ -1,4 +1,4 @@
-# ID BOT
+ID BOT
 
 ID est un bot de pointage simple et efficace
 
@@ -20,3 +20,6 @@ prefix des commandes !
 !setpointeuse definit le channel avec la pointeuse
 
 !rapport affiche le rapport des pointages 
+
+1118661247727054939
+1119047056519073792
